@@ -11,6 +11,8 @@ public class Main {
 
         arbol.insertar(70, "hacienda La Esperanza", "aguazul");
 
+           arbol.insertar(20, "Finca San isidro", "Nunchía");
+
         arbol.insertar(40, "Hato Caribayona", "Paz de Ariporo");
 
         arbol.insertar(60, "Finca Las Brisas", "Tauramena");
@@ -18,6 +20,8 @@ public class Main {
         arbol.insertar(80, "Hacienda La Palma", "Maní");
 
         arbol.insertar(10, "Finca El Porvenir",  "Pore");
+
+           arbol.insertar(25, "Finca las Garzas", "Trinidad");
 
         arbol.insertar(35, "Hato la Cabaña", "Orocué");
 
